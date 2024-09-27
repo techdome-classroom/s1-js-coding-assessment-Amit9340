@@ -1,5 +1,5 @@
 const decodeTheRing = function (s, p) {
-
+fdtfyu
     const m=s.length;
     const n=p.length;
 
